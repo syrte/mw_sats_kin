@@ -1,6 +1,6 @@
 # mw_sats_kin
 
-Online data will be available online soon.
+Online data will be available soon.
 
 ## Data List
 - Properties of the satellites used in this study [table 2]
