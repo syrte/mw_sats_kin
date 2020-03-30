@@ -17,6 +17,6 @@ This repository includes four table files
 
 - mw_satellite_kinematics_weighted_sample.txt
     Monte Carlo sample of the MW satellite kinematics.
-    Along with the importance weight, this sample represents a weighted realizations of the posterior kinematics for MW satellites.
+    Along with the importance weight, this sample represents weighted realizations of the posterior kinematics for MW satellites.
 
 The above tables are also available in the compressed file mw_profile+satkin.zip
