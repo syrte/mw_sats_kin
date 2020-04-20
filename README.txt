@@ -20,3 +20,14 @@ This repository includes four table files
     Along with the importance weight, this sample represents weighted realizations of the posterior kinematics for MW satellites.
 
 The above tables are also available in the compressed file mw_profile+satkin.zip
+
+The data has been assigned a doi 10.12149/101018
+
+@misc{Li2020b,
+  author       = {Zhao-Zhou Li and Yong-Zhong Qian and Jiaxin Han and Ting. S. Li and Wenting Wang and Y. P. Jing},
+  title        = {Constraining the Milky Way Mass Profile with Phase-Space Distribution of Satellite Galaxies},
+  month        = mar,
+  year         = 2020,
+  doi          = {10.12149/101018},
+  url          = {https://doi.org/10.12149/101018}
+}
